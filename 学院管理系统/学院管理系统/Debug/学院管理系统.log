@@ -1,0 +1,10 @@
+﻿  Course.cpp
+  Student.cpp
+  Teacher.cpp
+  publicUse.cpp
+  学院管理系统.cpp
+  正在生成代码...
+E:\Program Files (x86)\Project\Mannger\学院管理系统\学院管理系统\publicUse.cpp(129): warning C4715: “ShowCourseMenu”: 不是所有的控件路径都返回值
+E:\Program Files (x86)\Project\Mannger\学院管理系统\学院管理系统\publicUse.cpp(63): warning C4715: “ShowStudentMenu”: 不是所有的控件路径都返回值
+E:\Program Files (x86)\Project\Mannger\学院管理系统\学院管理系统\publicUse.cpp(100): warning C4715: “ShowTeacherMenu”: 不是所有的控件路径都返回值
+  学院管理系统.vcxproj -> E:\Program Files (x86)\Project\Mannger\学院管理系统\Debug\学院管理系统.exe
